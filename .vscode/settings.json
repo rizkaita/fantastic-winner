@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "test",
+            "database": "${workspaceFolder:laravel_vue_crud_auth}/employee-backend-laravel/database/database.sqlite",
+            "group": "test"
+        }
+    ]
+}
